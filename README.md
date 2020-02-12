@@ -13,3 +13,4 @@ Course Description: https://pd.uwaterloo.ca/DataScienceCertificateDetails.aspx#1
 - Assignment 2: Completed some basic data analysis leveraging the Kaggle Titantic dataset https://github.com/AndrewWolfe21/UW-DS-Certificate/blob/master/Foundations%20of%20Data%20Science/assignment2.ipynb
 - Assignment 3: Time Series Analysis of stock prices for FB, MMM, IBM, and AMZN https://github.com/AndrewWolfe21/UW-DS-Certificate/blob/master/Foundations%20of%20Data%20Science/assignment3.ipynb
 - Assignment 4: Classification of the Iris Dataset https://github.com/AndrewWolfe21/UW-DS-Certificate/blob/master/Foundations%20of%20Data%20Science/assignment4.ipynb
+- Final Project: For our final project we analyzed the Toronto Open Data Bicycle Theft dataset, my part of the project was looking at the location fields from the data https://github.com/AndrewWolfe21/UW-DS-Certificate/blob/master/Foundations%20of%20Data%20Science/Final%20Project%20-%20Location.ipynb
