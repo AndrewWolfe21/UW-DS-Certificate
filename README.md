@@ -14,3 +14,12 @@ Course Description: https://pd.uwaterloo.ca/DataScienceCertificateDetails.aspx#1
 - Assignment 3: Time Series Analysis of stock prices for FB, MMM, IBM, and AMZN https://github.com/AndrewWolfe21/UW-DS-Certificate/blob/master/Foundations%20of%20Data%20Science/assignment3.ipynb
 - Assignment 4: Classification of the Iris Dataset https://github.com/AndrewWolfe21/UW-DS-Certificate/blob/master/Foundations%20of%20Data%20Science/assignment4.ipynb
 - Final Project: For our final project we analyzed the Toronto Open Data Bicycle Theft dataset, my part of the project was looking at the location fields from the data https://github.com/AndrewWolfe21/UW-DS-Certificate/blob/master/Foundations%20of%20Data%20Science/Final%20Project%20-%20Location.ipynb
+
+### Data Science 2: Statistics for Data Science
+
+Course Description: https://pd.uwaterloo.ca/DataScienceCertificateDetails.aspx#2
+
+##### Assignments 
+
+- Assignmnet 1: Analyzed the Mosquito Beer vs. Water dataset from the youtube video https://www.youtube.com/watch?v=5Dnw46eC-0o and ran a simulation 
+https://github.com/AndrewWolfe21/UW-DS-Certificate/blob/master/Statistics%20for%20Data%20Science/assignment1.ipynb
