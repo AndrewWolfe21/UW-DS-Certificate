@@ -23,3 +23,11 @@ Course Description: https://pd.uwaterloo.ca/DataScienceCertificateDetails.aspx#2
 
 - Assignmnet 1: Analyzed the Mosquito Beer vs. Water dataset from the youtube video https://www.youtube.com/watch?v=5Dnw46eC-0o and ran a simulation 
 https://github.com/AndrewWolfe21/UW-DS-Certificate/blob/master/Statistics%20for%20Data%20Science/assignment1.ipynb
+- Assignment 2: Statistical analysis behind the Monty Hall problem
+https://github.com/AndrewWolfe21/UW-DS-Certificate/blob/master/Statistics%20for%20Data%20Science/assignment2.ipynb
+- Assignment 3: Capital Asset Pricing Model (CAPM) analysis and HR/abstenteeism analysis 
+https://github.com/AndrewWolfe21/UW-DS-Certificate/blob/master/Statistics%20for%20Data%20Science/assignment3.ipynb
+- Assignment 4: OLS regression model 
+https://github.com/AndrewWolfe21/UW-DS-Certificate/blob/master/Statistics%20for%20Data%20Science/assignment4.ipynb
+- Assignment 5: Bayesian analysis for stock return data
+https://github.com/AndrewWolfe21/UW-DS-Certificate/blob/master/Statistics%20for%20Data%20Science/assignment5.ipynb
