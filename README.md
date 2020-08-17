@@ -31,3 +31,11 @@ https://github.com/AndrewWolfe21/UW-DS-Certificate/blob/master/Statistics%20for%
 https://github.com/AndrewWolfe21/UW-DS-Certificate/blob/master/Statistics%20for%20Data%20Science/assignment4.ipynb
 - Assignment 5: Bayesian analysis for stock return data
 https://github.com/AndrewWolfe21/UW-DS-Certificate/blob/master/Statistics%20for%20Data%20Science/assignment5.ipynb
+
+### Data Science 3: Big Data Management Systems & Tools 
+
+Course Description: https://pd.uwaterloo.ca/DataScienceCertificateDetails.aspx#3
+
+##### Assignments 
+
+Not including the assignments as a couple were pdf / word document answers to questions along with extremely large databricks files which were only tweaked, not fully created by myself. 
