@@ -39,3 +39,16 @@ Course Description: https://pd.uwaterloo.ca/DataScienceCertificateDetails.aspx#3
 ##### Assignments 
 
 Not including the assignments as a couple were pdf / word document answers to questions along with extremely large databricks files which were only tweaked, not fully created by myself. 
+
+### Data Science 4: Machine Learning 
+
+Course Description: https://pd.uwaterloo.ca/DataScienceCertificateDetails.aspx#4
+
+- Assignment 1: Defaulting on next month of credit card 
+https://github.com/AndrewWolfe21/UW-DS-Certificate/blob/master/Machine%20Learning/assignment1.ipynb
+- Assignment 2: K-Means Algorithm 
+https://github.com/AndrewWolfe21/UW-DS-Certificate/blob/master/Machine%20Learning/assignment2.ipynb
+- Assignment 3: Working with the MNIST dataset 
+https://github.com/AndrewWolfe21/UW-DS-Certificate/blob/master/Machine%20Learning/assignment3.ipynb
+- Assignment 4: Decision Trees
+https://github.com/AndrewWolfe21/UW-DS-Certificate/blob/master/Machine%20Learning/assignment4.ipynb
